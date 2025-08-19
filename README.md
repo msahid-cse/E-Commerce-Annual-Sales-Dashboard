@@ -34,7 +34,7 @@ This project was designed based on a **Business Requirement Document (BRD)** and
 ---
 
 ## 🖼️ Dashboard Preview
-[Dashboard Screenshot](Screenshot 2025-08-20 031418.png)
+[Dashboard Screenshot](Screenshot.png)
 
 ---
 
