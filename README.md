@@ -34,14 +34,14 @@ This project was designed based on a **Business Requirement Document (BRD)** and
 ---
 
 ## 🖼️ Dashboard Preview
-![Dashboard Screenshot](Screenshot.png)
+![Dashboard Screenshot](Screenshot 2025-08-20 031418.png)
 
 ---
 
 ## 📂 Project Files
 - `Business Requirement Document.docx` → Defines KPIs & requirements  
 - `E-Commerce_Annual_Report.xlsx` → Interactive Excel dashboard  
-- `Screenshot.png` → Dashboard preview  
+- `**Screenshot.png**` → Dashboard preview  
 
 ---
 
